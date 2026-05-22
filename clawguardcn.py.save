@@ -1,5 +1,0 @@
-import subprocess
-import time
-
-print("ClawGuardCN is waking up...🦅")
-print("Monitoring Apache like a 
