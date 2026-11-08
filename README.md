@@ -24,15 +24,12 @@ Instead of showing boring technical messages nobody understands at 2am, ClawGuar
 - AWS EC2
 - Ubuntu Linux
 - Telegram Bot API
-  <img width="940" height="504" alt="image" src="https://github.com/user-attachments/assets/4c251f55-71eb-45f4-87aa-a9de7909ed48" />
-  <img width="940" height="449" alt="image" src="https://github.com/user-attachments/assets/86ec2151-2680-4a63-ad48-dc07068742fe" />
-  <img width="940" height="455" alt="image" src="https://github.com/user-attachments/assets/792c7937-62fb-4eed-b0f0-b1bee5fdc7ca" />
-  <img width="940" height="455" alt="image" src="https://github.com/user-attachments/assets/53f9e36e-1bcc-42e2-91ce-c70fa7205b87" />
-  <img width="940" height="455" alt="image" src="https://github.com/user-attachments/assets/fd2dd828-4b5d-44fa-aaa9-95dbc4c25be5" />
-  <img width="940" height="457" alt="image" src="https://github.com/user-attachments/assets/e309670b-e720-49c1-8061-6bc65a924025" />
-  <img width="940" height="453" alt="image" src="https://github.com/user-attachments/assets/9647299d-2c88-4830-8d15-9268026f3991" />
-  <img width="1290" height="2796" alt="Image (4)" src="https://github.com/user-attachments/assets/00893669-c84d-4b59-9c41-45e31443253f" />
-  <img width="1290" height="2796" alt="Image (5)" src="https://github.com/user-attachments/assets/ee279445-fe7b-474c-8c50-b0ff31044909" />
+<img width="940" height="422" alt="598108863-86ec2151-2680-4a63-ad48-dc07068742fe" src="https://github.com/user-attachments/assets/a3b6c801-00b9-4765-a322-bcc9c9ad6ea0" />
+<img width="940" height="431" alt="598109189-792c7937-62fb-4eed-b0f0-b1bee5fdc7ca" src="https://github.com/user-attachments/assets/e114cbbf-b974-413c-84b1-5fdfa4cb7d79" />
+ <img width="940" height="435" alt="598081581-53f9e36e-1bcc-42e2-91ce-c70fa7205b87" src="https://github.com/user-attachments/assets/c4cb8896-d997-425b-9990-e3691e40bf0d" />
+<img width="940" height="432" alt="598083100-fd2dd828-4b5d-44fa-aaa9-95dbc4c25be5" src="https://github.com/user-attachments/assets/739e074f-64bd-4dae-8a9d-286a9673b959" />
+<img width="940" height="427" alt="699142417-e4716fa9-fd2e-4f1b-bfd3-54c505080af2" src="https://github.com/user-attachments/assets/8244a35a-188a-42d3-997d-b44e0f2efd43" />
+ <img width="1290" height="2796" alt="Image (5)" src="https://github.com/user-attachments/assets/ee279445-fe7b-474c-8c50-b0ff31044909" />
 
 ## Demo Video 
 Watch ClawGuardCN detect and recover an Apache server failure automatically.
