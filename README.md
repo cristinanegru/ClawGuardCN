@@ -45,7 +45,7 @@ https://newcollegelanarkshire-my.sharepoint.com/:v:/g/personal/30208352_my_nclan
 3. OpenClaw analyses Apache logs
 4. The assistant explains what happened
 5. Apache is restarted automatically
-6. Apache status information can be checked trough Telegram 
+6. Apache status information can be checked through Telegram 
 
 ## Example ClawGuardCN messages
 
@@ -68,6 +68,6 @@ The goal of the project was to create something that feels more like a real AI a
 ClawGuardCN combines OpenClaw automation, Python scripting, AWS infrastructure, and Telegram integration to create a more interactive and user-friendly server recovery system.
 
 ## About the creator
-Created by Cristina Negru, student an HND Networking & Cloud Infrastructure.
+Created by Cristina Negru, a student on HND Networking & Cloud Infrastructure.
 This project was built to combine Linux server automation, cloud infrastructure, and AI-powered troubleshooting into a more user-friendly recovery assistant.
 
